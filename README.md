@@ -44,5 +44,9 @@
 
 ``` console.log(degree(grades)); ```
 
+* expected outcome:
+
+``` your mark is B  ```
+
 ***
 ***
