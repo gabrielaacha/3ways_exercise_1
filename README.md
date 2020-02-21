@@ -5,6 +5,10 @@
 # Exercise 1 solution 1
 
 * I created an emty counter called sumMarks, default value 0;
+
+>hello
+```hello hello hello ```
+
 * I created a variable called realAverage with default value 0, in order to calculate the average mark out of the 6 marks
 * then I created a loop in order to go through the array and perform calculations
 * then I added each index of the array to the sumMarks variable, so each value will be added up
