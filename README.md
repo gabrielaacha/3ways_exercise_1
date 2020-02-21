@@ -1,6 +1,6 @@
 # 3ways_exercise_1
 
-[![screenshot code](../Screenshot from 2020-02-20 15-17-05.png)
+![screenshot code](/gabriela/3ways_exercise_1/Screenshot from 2020-02-20 15-17-05.png)
 
 # Exercise 1 solution 1
 
