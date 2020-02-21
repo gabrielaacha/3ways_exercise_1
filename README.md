@@ -4,7 +4,7 @@
 
 # Exercise 1 Solution 2
 
-* I created a variable called sumPOints to calculate the total of all 6 marks. I used the method reduced with simple parameters a and b in the callback function
+* I created a variable called sumPoints to calculate the total of all 6 marks. I used the method reduced with simple parameters a and b in the callback function
 
 ``` let sumPoints = arr.reduce((a, b) => a + b); ```
 
