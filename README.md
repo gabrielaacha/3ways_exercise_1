@@ -1,6 +1,6 @@
 # 3ways_exercise_1
 
-![screenshot code](images/3ways_exercise1/Screenshot from 2020-02-20 15-23-46.png)
+![screenshot code](../3ways_exercise1/Screenshot from 2020-02-20 15-23-46.png)
 
 # Exercise 1 Solution 2
 
