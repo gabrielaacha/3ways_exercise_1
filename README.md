@@ -36,9 +36,12 @@
     return "your mark is A";
   } else if (realAverage > 90) {
     return "congratulations your mark is A+";
-  } ```
+  }
+
+ ```
 
 * I console.logged the function call
+
 ``` console.log(degree(grades)); ```
 
 ***
