@@ -1,15 +1,12 @@
-# 3ways_exercise_1
+# 3Ways_exercise_1
 
-![screenshot code](/Desktop/3ways-challenge-pics/exercise1/exercise1_version1/Screenshot from 2020-02-20 15-17-05.png)
+> Here are 3 solutions for the following exercise:
 
-_Steps taken_
+// Create a function will calculate a student degrees for 6 subjects,
+// 1-if the average was less than 70 will print (F)
+// 2-Over 70 and less than 80 (C)
+// 3-over than 80 and less than 85 (B)
+// 4-Over than 85 and less than 90 (A)
+// 5-And over 90 print (A+)
 
-* created an emty counter called sumMarks, default value 0;
-* created a variable called realAverage with default value 0, in order to calculate the average mark out of the 6 marks
-* then I created a loop in order to go through the array and perform calculations
-* then I added each index of the array to the sumMarks variable, so each value will be added up
-* then I calculated the read average dividing the average between the amount of marks (6). I used math.floor to round up the number (get the decimals out)
-* then I created a multiple condition, each line returning a final mark (A+,A,B,C,F)
-* console.log to visualise the result in the terminal
-* I console.logged the function call
 
